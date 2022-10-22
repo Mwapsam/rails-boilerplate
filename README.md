@@ -1,24 +1,8 @@
-# README
+### Ruby on Rails 7 - High-performance frontend development with Esbuild, Rollup & Vite
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+The Vite JS site promotes the following features, among others.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+  - Instant Server Start - On-demand file serving over native ESM, no bundling required!
+  - Lightning Fast HMR - Hot Module Replacement (HMR) that stays fast regardless of app size.
+  - Rich Features - Out-of-the-box support for TypeScript, JSX, CSS and more.
+  - Optimized Build - Pre-configured Rollup builds with multi-page and library mode support.
